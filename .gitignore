@@ -1,0 +1,6 @@
+classes/
+dex/
+classes.jar
+app-unsigned.apk
+app-aligned.apk
+*.idsig
